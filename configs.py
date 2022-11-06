@@ -23,13 +23,11 @@ class Config(object):
 
 📡 Server: <a href='https://heroku.com'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/cyniteofficial'>Cynite</a></b>
+👨‍💻 Created By: <a href='https://t.me/kannada_Rockerssz'>Rockers</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/cyniteofficial'>Click Me</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/kannada_Rockerssz'>Click Me</a>
 
-If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
-"""
 
     HOME_TEXT = """
 <b>Hey! {}😅,
@@ -38,7 +36,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @Cyniteofficial</a></b>
+<a>Made With ❤ By @kannada_Rockerssz</a></b>
 """
 
 
@@ -49,7 +47,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @Cyniteofficial</a></b>
+<a>Made With ❤ By @kannada_Rockerssz</a></b>
 """
 
 
