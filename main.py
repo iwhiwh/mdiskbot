@@ -28,8 +28,8 @@ async def start_handler(_, event: Message):
 	await event.reply_photo("https://telegra.ph/file/165941ae764a56d6d9c89.jpg",
                                 caption=Config.START_MSG.format(event.from_user.mention),
                                 reply_markup=InlineKeyboardMarkup([
-                                    [InlineKeyboardButton("Our Channel", url="https://t.me/ROCKERS_BACKUP"),
-                                     InlineKeyboardButton("Creator", url="https://t.me/kannada_Rockerssz")],
+                                    [InlineKeyboardButton("Our Channel", url="https://t.me/The_Happy_Hour_Hindi"),
+                                     InlineKeyboardButton("Creator", url="https://t.me/The_Happy_Hour_Hindi")],
                                     [InlineKeyboardButton("Help", callback_data="Help_msg"),
                                      InlineKeyboardButton("About", callback_data="About_msg")]]))
 
@@ -38,8 +38,8 @@ async def help_handler(_, event: Message):
 
     await event.reply_text(Config.ABOUT_HELP_TEXT.format(event.from_user.mention),
         reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton("Our Channel", url="https://t.me/kannada_Rockerssz"),
-             InlineKeyboardButton("Our Group", url="https://t.me/request_movie_pro"), 
+            [InlineKeyboardButton("Our Channel", url="https://t.me/The_Happy_Hour_Hindi"),
+             InlineKeyboardButton("Our Group", url="https://t.me/Happy_Hour_Hindi"), 
              InlineKeyboardButton("About", callback_data="About_msg")]
         ])
     )
@@ -77,11 +77,11 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("Our Channel", url="https://t.me/ROCKERS_BACKUP"),
-						InlineKeyboardButton("Join", url="https://t.me/kannada_Rockerssz")
+						InlineKeyboardButton("Our Channel", url="https://t.me/The_Happy_Hour_Hindi"),
+						InlineKeyboardButton("Join", url="https://t.me/The_Happy_Hour_Hindi")
 					],
 					[
-						InlineKeyboardButton("Creator", url="https://t.me/@Killertoy1"),
+						InlineKeyboardButton("Creator", url="https://t.me/Mister_Ash"),
 						InlineKeyboardButton("Home", callback_data="gohome")
 					]
 				]
@@ -96,10 +96,10 @@ async def button(bot, cmd: CallbackQuery):
 				[
 					[
 						InlineKeyboardButton("About", callback_data="About_msg"),
-						InlineKeyboardButton("Our Channel", url="https://t.me/kannada_Rockerssz")
+						InlineKeyboardButton("Our Channel", url="https://t.me/The_Happy_Hour_Hindi")
 					], 
                                         [
-						InlineKeyboardButton("Owner", url="https://t.me/Killertoy1"),
+						InlineKeyboardButton("Owner", url="https://t.me/Mister_Ash"),
 						InlineKeyboardButton("Home", callback_data="gohome")
 					]
 				]
@@ -117,8 +117,8 @@ async def button(bot, cmd: CallbackQuery):
 						InlineKeyboardButton("About", callback_data="About_msg")
 					],
 					[
-						InlineKeyboardButton("Support", url="https://t.me/kannada_Rockerssz"),
-						InlineKeyboardButton("Channel", url="https://t.me/ROCKERS_BACKUP")
+						InlineKeyboardButton("Support", url="https://t.me/Happy_Hour_Hindi"),
+						InlineKeyboardButton("Channel", url="https://t.me/The_Happy_Hour_Hindi")
 					]
 				]
 			),
