@@ -15,7 +15,7 @@ class Config(object):
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
     ABOUT_BOT_TEXT = """<b>This is Mdisk Search Bot.
 
-🤖 My Name: <a href='https://t.me/Killertoy1'>Mdisk Search Robot</a>
+🤖 My Name: <a href='https://t.me/Mister_Ash'>The Happy Hour</a>
 
 📝 Language : <a href='https://www.python.org'> Python V3</a>
 
@@ -23,10 +23,10 @@ class Config(object):
 
 📡 Server: <a href='https://heroku.com'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/kannada_Rockerssz'>Rockers</a></b>
+👨‍💻 Created By: <a href='https://t.me/Mister_Ash'>Ash Ketchum</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/kannada_Rockerssz'>Click Me</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/Mister_Ash'>Click Me</a>
 
 
     HOME_TEXT = """
@@ -36,7 +36,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @kannada_Rockerssz</a></b>
+<a>Made With ❤ By @The_Happy_Hour_Hindi</a></b>
 """
 
 
@@ -47,7 +47,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @kannada_Rockerssz</a></b>
+<a>Made With ❤ By @The_Happy_Hour_Hindi</a></b>
 """
 
 
