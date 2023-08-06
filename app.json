@@ -8,8 +8,8 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/RoyalKrrishna/MessageSearchBot",
-    "website": "https://telegram.dog/RoyalKrrishna",
+    "repository": "https://github.com/iwhiwh/mdiskbot",
+    "website": "https://github.com/iwhiwh/mdiskbot",
     "success_url": "https://t.me/mdisksearchroBot",
     "env": {
         "API_ID": {
@@ -55,7 +55,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
