@@ -32,22 +32,22 @@ class Config(object):
     HOME_TEXT = """
 <b>Hey! {},
 
-I Mdisk Search Robot.🤖</a>
+I Mdisk Search Robot.</a>
 
-I Can Search 🔍 What You Want❗
+I Can Search What You Want
 
-<a>Made With ❤ By @The_Happy_Hour_Hindi</a></b>
+<a>Made With By @The_Happy_Hour_Hindi</a></b>
 """
 
 
     START_MSG = """
 <b>Hey! {},
 
-i Mdisk Search Robot.🤖</a>
+i Mdisk Search Robot.</a>
 
-I Can Search 🔍 What You Want❗
+I Can Search What You Want
 
-<a>Made With ❤ By @The_Happy_Hour_Hindi</a></b>
+<a>Made With By @The_Happy_Hour_Hindi</a></b>
 """
 
 
