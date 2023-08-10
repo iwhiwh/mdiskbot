@@ -43,7 +43,7 @@ I Can Search 🔍 What You Want❗
     START_MSG = """
 <b>Hey! {},
 
-I'm Mdisk Search Robot.🤖</a>
+i Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
