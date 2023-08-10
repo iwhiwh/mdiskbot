@@ -43,7 +43,7 @@ I Can Search What You Want
     START_MSG = """
 <b>Hey! {},
 
-i Mdisk Search Robot.</a>
+I Mdisk Search Robot.</a>
 
 I Can Search What You Want
 
