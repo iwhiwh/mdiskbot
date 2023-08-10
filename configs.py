@@ -32,7 +32,7 @@ class Config(object):
     HOME_TEXT = """
 <b>Hey! {},
 
-I'm Mdisk Search Robot.🤖</a>
+I Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
